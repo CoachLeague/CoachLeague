@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CoachLeague | Trade the Tactics</title>
+  <meta name="description" content="CoachLeague is a Solana meme coin ecosystem focused on football managers. Trade the tactics.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="header">
+  <div class="wrap nav">
+    <a href="#" class="brand" aria-label="CoachLeague home">
+      <div class="shield">C</div>
+      <div>
+        <div class="brand-title">COACH<span>LEAGUE</span></div>
+        <div class="brand-sub">TRADE THE TACTICS</div>
+      </div>
+    </a>
+    <nav class="links" aria-label="Main navigation">
+      <a class="active" href="#home">Home</a>
+      <a href="#coaches">Coaches</a>
+      <a href="#buyburn">Buy & Burn</a>
+      <a href="#leaderboard">Leaderboard</a>
+      <a href="#about">About</a>
+    </nav>
+    <div class="nav-actions">
+      <a class="social x-link" href="#" target="_blank" aria-label="X">𝕏</a>
+      <a class="social" id="telegram" href="#" target="_blank" aria-label="Telegram">✈</a>
+      <a class="social" id="discord" href="#" target="_blank" aria-label="Discord">☯</a>
+      <a class="btn" id="buyMain" href="#" target="_blank">Buy $COACH</a>
+    </div>
+  </div>
+</header>
+
+<main id="home">
+  <section class="hero wrap">
+    <div class="hero-grid">
+      <div class="panel main-card">
+        <div class="badge-title">The Main Coach Coin</div>
+        <div class="coin-emblem">C</div>
+        <div>
+          <h1 class="h1">$COACH <small>$COACH</small></h1>
+          <p class="copy">The main token of CoachLeague. 45% of all coach-trade fees are used for buyback & burn of $COACH. 45% goes to marketing. 10% goes to the founder for the time, work and attention invested into the project.</p>
+          <div class="stats">
+            <div class="stat"><div class="label">Price Live</div><div class="value" id="mainPrice">$0.000842</div><div class="up" id="mainChange">+12.45%</div></div>
+            <div class="stat"><div class="label">Market Cap</div><div class="value" id="mainMcap">$1.24M</div></div>
+            <div class="stat"><div class="label">24H Volume</div><div class="value" id="mainVol">$286.7K</div></div>
+          </div>
+          <div class="actions">
+            <a class="btn" href="#" id="buyMain2" onclick="document.getElementById('buyMain').click(); return false;">Buy $COACH</a>
+            <a class="btn dark" href="#" id="mainChart" target="_blank">▥ Chart</a>
+          </div>
+          <div class="main-poster-wrap">
+            <img class="main-poster" src="assets/main-coachleague-poster.png" alt="CoachLeague main coin poster with the main coaches around the World Cup trophy">
+          </div>
+        </div>
+      </div>
+      <div class="panel about" id="about">
+        <h2>What is CoachLeague?</h2>
+        <p class="copy">CoachLeague is a meme coin ecosystem on Solana focused on football managers. Each coach has their own coin. Trade your favorite coaches, enjoy the memes and be part of the game.</p>
+        <div class="flow" id="buyburn">
+          <div class="flow-item"><div class="flow-icon">♟</div><div class="label">All Fees From<br>Coach Trades</div></div>
+          <div class="arrow">→</div>
+          <div class="flow-item"><div class="flow-icon">🔥</div><div class="flow-percent">45%</div><div class="label">Buyback & Burn<br>$COACH</div></div>
+          <div class="arrow">→</div>
+          <div class="flow-item"><div class="flow-icon">📣</div><div class="flow-percent">45%</div><div class="label">Marketing</div></div>
+          <div class="arrow">→</div>
+          <div class="flow-item"><div class="flow-icon">♚</div><div class="flow-percent">10%</div><div class="label">Founder</div></div>
+        </div>
+        <p class="copy">Each coach has its own meme coin. Trading activity supports the CoachLeague ecosystem and helps strengthen the main coin.</p>
+        <p class="note">Buyback & burn updates are shared publicly on X.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="wrap" id="coaches">
+    <div class="toolbar">
+      <div class="title-row">
+        <div class="trophy">🏆</div>
+        <div>
+          <h2 class="section-title">Our Coaches</h2>
+          <div class="copy">Showing <span id="shownCount">48</span> / <span id="coachTotal">48</span> coaches. Trade your favorite coaches.</div>
+        </div>
+      </div>
+      <div class="controls">
+        <input class="search" id="search" placeholder="Search coaches..." aria-label="Search coaches">
+        <select class="select" id="sort" aria-label="Sort coaches">
+          <option value="rank">Sort by: Rank</option>
+          <option value="name">Sort by: Name</option>
+          <option value="country">Sort by: Country</option>
+          <option value="marketcap">Sort by: Market Cap</option>
+        </select>
+      </div>
+    </div>
+    <div class="coach-grid" id="coachList"></div>
+  </section>
+
+  <section class="wrap panel footer-panel" id="leaderboard">
+    <div class="footer-box"><div class="big-percent">🔥 45%</div><div class="label">Buyback & Burn</div><p class="copy">Fees are used to buy back and burn $COACH.</p></div>
+    <div class="footer-box"><div class="big-percent">📣 45%</div><div class="label">Marketing</div><p class="copy">Fees are used to grow the ecosystem.</p></div>
+    <div class="footer-box"><div class="big-percent">♚ 10%</div><div class="label">Founder</div><p class="copy">For the time, work and attention invested.</p></div>
+    <div class="footer-box"><div class="big-percent">𝕏</div><div class="label">Follow updates</div><p class="copy">Buyback and burn updates are shared on X.</p></div>
+  </section>
+</main>
+
+<footer class="footer">
+  <div class="wrap footer-grid">
+    <div>
+      <a href="#" class="brand"><div class="shield">C</div><div><div class="brand-title">COACH<span>LEAGUE</span></div><div class="brand-sub">TRADE THE TACTICS</div></div></a>
+      <p class="copy">A meme coin ecosystem for football managers. For entertainment purposes only.</p>
+    </div>
+    <div><h4>Quick Links</h4><a href="#home">Home</a><a href="#coaches">Coaches</a><a href="#buyburn">Buy & Burn</a><a href="#leaderboard">Leaderboard</a><a href="#about">About</a></div>
+    <div><h4>Resources</h4><a href="#">How it Works</a><a href="#">Tokenomics</a><a href="#">Roadmap</a><a href="#">FAQ</a><a href="#">Whitepaper</a></div>
+    <div><h4>Join the community</h4><div class="nav-actions"><a class="social x-link" href="#">𝕏</a><a class="social" href="#" id="telegram2">✈</a><a class="social" href="#" id="discord2">☯</a></div><p class="copy">Disclaimer: This is a meme coin project for entertainment purposes only. Not financial advice.</p></div>
+  </div>
+</footer>
+<div id="toast" class="toast"></div>
+<script src="config.js"></script>
+<script src="script.js"></script>
+</body>
+</html>
