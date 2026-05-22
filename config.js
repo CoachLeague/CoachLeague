@@ -16,7 +16,7 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "DIDI",
       "country": "France",
       "image": "assets/coaches/01-didier-dechampagne.png",
-      "contract": "",
+      "contract": "33eum82LaAhtv5YkUq1BdwEviSErH5CnFxqVNLT5pump",
       "pumpfunUrl": "",
       "dexPairUrl": "",
       "description": "Trade the tactics."
