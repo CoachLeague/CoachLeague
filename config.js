@@ -114,7 +114,7 @@ window.COACHLEAGUE_CONFIG = {
       "name": "Robert Martínoz",
       "ticker": "ROBERT",
       "country": "Portugal",
-      "image": "assets/coaches/10-robert-mart-noz.png",
+      "image": "assets/coaches/10-robert-martinoz.png",
       "contract": "",
       "pumpfunUrl": "",
       "dexPairUrl": "",
