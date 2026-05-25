@@ -16,9 +16,9 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "DIDI",
       "country": "France",
       "image": "assets/coaches/01-didier-dechampagne.png",
-      "contract": "33eum82LaAhtv5YkUq1BdwEviSErH5CnFxqVNLT5pump",
-      "pumpfunUrl": "",
-      "dexPairUrl": "",
+      "contract": "HXawW8so4tet1Mgvv3jA38buSsdR6VP7TGiGv8j1pump",
+      "pumpfunUrl": "https://pump.fun/coin/HXawW8so4tet1Mgvv3jA38buSsdR6VP7TGiGv8j1pump",
+      "dexPairUrl": "https://dexscreener.com/solana/govpbjzj4yhtcaxlgawhdatkrnkkpqqaesrwbgxkgvqj",
       "description": "Trade the tactics."
     },
     {
@@ -27,9 +27,9 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "LUIS",
       "country": "Spain",
       "image": "assets/coaches/02-luis-de-la-furia.png",
-      "contract": "",
-      "pumpfunUrl": "",
-      "dexPairUrl": "",
+      "contract": "AQhSiBwEAmbkKDGJQxwKeqMUskhBSTwFb5sjjzWZpump",
+      "pumpfunUrl": "https://pump.fun/coin/AQhSiBwEAmbkKDGJQxwKeqMUskhBSTwFb5sjjzWZpump",
+      "dexPairUrl": "https://dexscreener.com/solana/gkrzhl2axqej1s5a2jatt7q8ik76iadpfg3mppkajz8g",
       "description": "Trade the tactics."
     },
     {
@@ -38,9 +38,9 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "TUCHELS",
       "country": "England",
       "image": "assets/coaches/03-thomas-tuchels.png",
-      "contract": "",
-      "pumpfunUrl": "",
-      "dexPairUrl": "",
+      "contract": "ATwgt5dwPMbfbd2riJnbXu5XAdmRM9ewPKV5nFnpump",
+      "pumpfunUrl": "https://pump.fun/coin/ATwgt5dwPMbfbd2riJnbXu5XAdmRM9ewPKV5nFnpump",
+      "dexPairUrl": "https://dexscreener.com/solana/fbkahdl7bsfs7ocvfkatvsndbpwhynz3ojoaettqbwyt",
       "description": "Trade the tactics."
     },
     {
@@ -49,9 +49,9 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "POCHET",
       "country": "United States",
       "image": "assets/coaches/04-mauricios-pochettinos.png",
-      "contract": "",
-      "pumpfunUrl": "",
-      "dexPairUrl": "",
+      "contract": "7aEU8N6LFmKi5tSRgC3XpMXhkHXNiGphFbwzecjFpump",
+      "pumpfunUrl": "https://pump.fun/coin/7aEU8N6LFmKi5tSRgC3XpMXhkHXNiGphFbwzecjFpump",
+      "dexPairUrl": "https://dexscreener.com/solana/hdf5qo2hbjipccrpeqeofpaesvsspadodiseeqo4qmhu",
       "description": "Trade the tactics."
     },
     {
@@ -60,9 +60,9 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "JAVI",
       "country": "Mexico",
       "image": "assets/coaches/05-javiero-aguirres.png",
-      "contract": "",
-      "pumpfunUrl": "",
-      "dexPairUrl": "",
+      "contract": "F9kQaeMv8KbPCvzLmHjJEsu8MWCjJCUxRK9ZuYmWpump",
+      "pumpfunUrl": "https://pump.fun/coin/F9kQaeMv8KbPCvzLmHjJEsu8MWCjJCUxRK9ZuYmWpump",
+      "dexPairUrl": "https://dexscreener.com/solana/8byunwbruypmeouwlzm6rdpt4rsvxcndbewus7edliin",
       "description": "Trade the tactics."
     },
     {
@@ -71,9 +71,9 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "CARLOS",
       "country": "Brazil",
       "image": "assets/coaches/06-carlos-ancelotti-s.png",
-      "contract": "",
-      "pumpfunUrl": "",
-      "dexPairUrl": "",
+      "contract": "5Bw1PGR7nB7o5A6DqHkq1YnTrJr79cinLsunCFXYpump",
+      "pumpfunUrl": "https://pump.fun/coin/5Bw1PGR7nB7o5A6DqHkq1YnTrJr79cinLsunCFXYpump",
+      "dexPairUrl": "https://dexscreener.com/solana/6nbycqxyazhd4xsmocxvdufe4ggcxawxvtqnrbhkt49l",
       "description": "Trade the tactics."
     },
     {
@@ -82,9 +82,9 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "LION",
       "country": "Argentina",
       "image": "assets/coaches/07-lionels-scalonis.png",
-      "contract": "",
-      "pumpfunUrl": "",
-      "dexPairUrl": "",
+      "contract": "rQCvD7PfgSM1nV7Grv5BZUr2tUTqaHq2xNMeqbLpump",
+      "pumpfunUrl": "https://pump.fun/coin/rQCvD7PfgSM1nV7Grv5BZUr2tUTqaHq2xNMeqbLpump",
+      "dexPairUrl": "https://dexscreener.com/solana/feuxqautfphha3ujun2tbnrgvgsyn3yyetbneufcgfgf",
       "description": "Trade the tactics."
     },
     {
@@ -93,9 +93,9 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "RONALDO",
       "country": "Netherlands",
       "image": "assets/coaches/08-ronaldo-koemans.png",
-      "contract": "",
-      "pumpfunUrl": "",
-      "dexPairUrl": "",
+      "contract": "Gwry5Z89E9mbA5bjvTQGAgbczzBz6dPm9QYUKNKZpump",
+      "pumpfunUrl": "https://pump.fun/coin/Gwry5Z89E9mbA5bjvTQGAgbczzBz6dPm9QYUKNKZpump",
+      "dexPairUrl": "https://dexscreener.com/solana/ee2nqsymzijvnch3qf5xxobb6enf4xzzv8hxo1y6rux8",
       "description": "Trade the tactics."
     },
     {
@@ -104,9 +104,9 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "MONTELLAS",
       "country": "Turkey",
       "image": "assets/coaches/09-vincenzos-montellas.png",
-      "contract": "",
-      "pumpfunUrl": "",
-      "dexPairUrl": "",
+      "contract": "AadbfXBFQohDY3G4tYtdA4EX2PkWLw438Z6kXMHDpump",
+      "pumpfunUrl": "https://pump.fun/coin/AadbfXBFQohDY3G4tYtdA4EX2PkWLw438Z6kXMHDpump",
+      "dexPairUrl": "https://dexscreener.com/solana/2mw7atjfv93ebcfggkauma9tbjadc1ew2yzgjppsrn6d",
       "description": "Trade the tactics."
     },
     {
@@ -115,9 +115,9 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "ROBERT",
       "country": "Portugal",
       "image": "assets/coaches/10-robert-martinoz.png",
-      "contract": "",
-      "pumpfunUrl": "",
-      "dexPairUrl": "",
+      "contract": "9KXYN8X5udFet7kNX7ccvj3nCL2YRMtLPFuY2dcmpump",
+      "pumpfunUrl": "https://pump.fun/coin/9KXYN8X5udFet7kNX7ccvj3nCL2YRMtLPFuY2dcmpump",
+      "dexPairUrl": "https://dexscreener.com/solana/62syytqzmkdegejvbmzkejnvzjxfyh1cemgd5xqrkikg",
       "description": "Trade the tactics."
     },
     {
@@ -126,9 +126,9 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "HAJIM",
       "country": "Japan",
       "image": "assets/coaches/11-hajim-moriyasus.png",
-      "contract": "",
-      "pumpfunUrl": "",
-      "dexPairUrl": "",
+      "contract": "61EWYu18Hk6o8FgEw9cYP3X7DoPrnJWb7EX9DCvupump",
+      "pumpfunUrl": "https://pump.fun/coin/61EWYu18Hk6o8FgEw9cYP3X7DoPrnJWb7EX9DCvupump",
+      "dexPairUrl": "https://dexscreener.com/solana/9yztgsfyww1rh63f3anjmblnwgmq4wyxoriaurzuzuyg",
       "description": "Trade the tactics."
     },
     {
@@ -137,9 +137,9 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "MURAD",
       "country": "Switzerland",
       "image": "assets/coaches/12-murad-yakn.png",
-      "contract": "",
-      "pumpfunUrl": "",
-      "dexPairUrl": "",
+      "contract": "BYtR2eKqX8D21T2iASMLGsuHsXHJzrD6Ybj7HRj9pump",
+      "pumpfunUrl": "https://pump.fun/coin/BYtR2eKqX8D21T2iASMLGsuHsXHJzrD6Ybj7HRj9pump",
+      "dexPairUrl": "https://dexscreener.com/solana/7kuhu1fnq3gbyczhcjqlqznt7t1fxhdsr4synqtdhs3i",
       "description": "Trade the tactics."
     },
     {
@@ -148,9 +148,9 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "NAGELSMAN",
       "country": "Germany",
       "image": "assets/coaches/13-juliano-nagelsmanns.png",
-      "contract": "",
-      "pumpfunUrl": "",
-      "dexPairUrl": "",
+      "contract": "4N7dZyxG2cBMVSNEoEFucPGynGSM18b5rbeJJocSpump",
+      "pumpfunUrl": "https://pump.fun/coin/4N7dZyxG2cBMVSNEoEFucPGynGSM18b5rbeJJocSpump",
+      "dexPairUrl": "https://dexscreener.com/solana/m7h7zp3p7ia5xoksnv37bf3wukhdafmcz5vrawhb5wi",
       "description": "Trade the tactics."
     },
     {
@@ -159,9 +159,9 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "HONGO",
       "country": "South Korea",
       "image": "assets/coaches/14-myungo-bo-hongo.png",
-      "contract": "",
-      "pumpfunUrl": "",
-      "dexPairUrl": "",
+      "contract": "8v9oR3NoX9uJMoCNrhL9y24yQPGKweiNtmEqBcVjpump",
+      "pumpfunUrl": "https://pump.fun/coin/8v9oR3NoX9uJMoCNrhL9y24yQPGKweiNtmEqBcVjpump",
+      "dexPairUrl": "https://dexscreener.com/solana/5qkonhugtwq9qpaxmilygj9epmvmerzqrgrdyfkp6xjp",
       "description": "Trade the tactics."
     },
     {
@@ -170,9 +170,9 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "RUDIE",
       "country": "Belgium",
       "image": "assets/coaches/15-rudie-garcias.png",
-      "contract": "",
-      "pumpfunUrl": "",
-      "dexPairUrl": "",
+      "contract": "971jrZcF9YqnpFEFDxh7rc9XF5PsWvCqa2jgeXDypump",
+      "pumpfunUrl": "https://pump.fun/coin/971jrZcF9YqnpFEFDxh7rc9XF5PsWvCqa2jgeXDypump",
+      "dexPairUrl": "https://dexscreener.com/solana/aakeybcymk4hddbgrgl37zydjwp1t3ti3buwp7gnsqhy",
       "description": "Trade the tactics."
     },
     {
@@ -181,9 +181,9 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "EMERSES",
       "country": "Ivory Coast",
       "image": "assets/coaches/16-emerses-fa-s.png",
-      "contract": "",
-      "pumpfunUrl": "",
-      "dexPairUrl": "",
+      "contract": "2bgaUuEQ5eWJjKd253D7VtdYEstHnyadUNuo24Nmpump",
+      "pumpfunUrl": "https://pump.fun/coin/2bgaUuEQ5eWJjKd253D7VtdYEstHnyadUNuo24Nmpump",
+      "dexPairUrl": "https://dexscreener.com/solana/f1sp3vtn6h1jhicrc3grkfmkbgytcqzfob5udrewxmgq",
       "description": "Trade the tactics."
     },
     {
@@ -192,9 +192,9 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "THIAWO",
       "country": "Senegal",
       "image": "assets/coaches/17-papeo-thiawo.png",
-      "contract": "",
-      "pumpfunUrl": "",
-      "dexPairUrl": "",
+      "contract": "BGAihfoLqV3FWuYoXFeJ9g2ueMsHD8jzxuSndg5gpump",
+      "pumpfunUrl": "https://pump.fun/coin/BGAihfoLqV3FWuYoXFeJ9g2ueMsHD8jzxuSndg5gpump",
+      "dexPairUrl": "https://dexscreener.com/solana/gnx5pjhd1u9eqjilg7jzzdz2zmcaffmbsu1tvxr9p62j",
       "description": "Trade the tactics."
     },
     {
@@ -203,9 +203,9 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "RALFI",
       "country": "Austria",
       "image": "assets/coaches/18-ralfi-rangnicks.png",
-      "contract": "",
-      "pumpfunUrl": "",
-      "dexPairUrl": "",
+      "contract": "J9x1bxoE7trMDaB8W26qb7aDsiU3MuDNmaDrk7Pupump",
+      "pumpfunUrl": "https://pump.fun/coin/J9x1bxoE7trMDaB8W26qb7aDsiU3MuDNmaDrk7Pupump",
+      "dexPairUrl": "https://dexscreener.com/solana/7egh8dvdjcgm2isbgrgvx3guquvjzvbnqamjsmucmxgr",
       "description": "Trade the tactics."
     },
     {
@@ -214,9 +214,9 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "DALICO",
       "country": "Croatia",
       "image": "assets/coaches/19-zlatkos-dalico.png",
-      "contract": "",
-      "pumpfunUrl": "",
-      "dexPairUrl": "",
+      "contract": "JE8t53b9F4jNawaQoaCn3ZNJTuQ5thBGKnPkgB9npump",
+      "pumpfunUrl": "https://pump.fun/coin/JE8t53b9F4jNawaQoaCn3ZNJTuQ5thBGKnPkgB9npump",
+      "dexPairUrl": "https://dexscreener.com/solana/bkdusicqe4vhtpus1rjlb32j3z7ug1nhfrr7ehlucx1",
       "description": "Trade the tactics."
     },
     {
@@ -225,9 +225,9 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "STEVEN",
       "country": "Scotland",
       "image": "assets/coaches/20-steven-clarken.png",
-      "contract": "",
-      "pumpfunUrl": "",
-      "dexPairUrl": "",
+      "contract": "3uk3tUyjnFQaNgNp1gmvW3o3EUpEwxP97NaST8nupump",
+      "pumpfunUrl": "https://pump.fun/coin/3uk3tUyjnFQaNgNp1gmvW3o3EUpEwxP97NaST8nupump",
+      "dexPairUrl": "https://dexscreener.com/solana/3dpl1wjsogjuv8xhuradwl7qpgkp7gqep53yg33gqrsn",
       "description": "Trade the tactics."
     },
     {
@@ -236,9 +236,9 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "BUBISTAR",
       "country": "Cape Verde",
       "image": "assets/coaches/21-bubistar.png",
-      "contract": "",
-      "pumpfunUrl": "",
-      "dexPairUrl": "",
+      "contract": "Ekj6w5ENpcDDp2cYAJ6mUYnAmNBgSbWEju1mfCvSpump",
+      "pumpfunUrl": "https://pump.fun/coin/Ekj6w5ENpcDDp2cYAJ6mUYnAmNBgSbWEju1mfCvSpump",
+      "dexPairUrl": "https://dexscreener.com/solana/5fmkcdykzvmb1qpeep7yewyqcruzlhpzldceoxfo5ldg",
       "description": "Trade the tactics."
     },
     {
@@ -247,9 +247,9 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "THOM",
       "country": "Panama",
       "image": "assets/coaches/22-thomassen-christiansens.png",
-      "contract": "",
-      "pumpfunUrl": "",
-      "dexPairUrl": "",
+      "contract": "2TeCbehqJdi4KgQGBftSQCF8b6No5vbHALTQTaXSpump",
+      "pumpfunUrl": "https://pump.fun/coin/2TeCbehqJdi4KgQGBftSQCF8b6No5vbHALTQTaXSpump",
+      "dexPairUrl": "https://dexscreener.com/solana/cy2qkpspbvju8e9lyhahe94rfhxhx72ipj97djaz2dkq",
       "description": "Trade the tactics."
     },
     {
@@ -258,9 +258,9 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "STALES",
       "country": "Norway",
       "image": "assets/coaches/23-st-les-solbakkens.png",
-      "contract": "",
-      "pumpfunUrl": "",
-      "dexPairUrl": "",
+      "contract": "AHCXwnJhL4yhCFCZWbWDDBUukbQdWnC3mKSqwG5Rpump",
+      "pumpfunUrl": "https://pump.fun/coin/AHCXwnJhL4yhCFCZWbWDDBUukbQdWnC3mKSqwG5Rpump",
+      "dexPairUrl": "https://dexscreener.com/solana/dvzdkw6xmikghynneqgfkjgcarvnzaanfjmdbhqfdupp",
       "description": "Trade the tactics."
     },
     {
@@ -269,9 +269,9 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "BROOSS",
       "country": "South Africa",
       "image": "assets/coaches/24-huggo-brooss.png",
-      "contract": "",
-      "pumpfunUrl": "",
-      "dexPairUrl": "",
+      "contract": "AZSRn9eVA7fEHbo7ZWWR4qFUaHk1GD7GzZtpioLqpump",
+      "pumpfunUrl": "https://pump.fun/coin/AZSRn9eVA7fEHbo7ZWWR4qFUaHk1GD7GzZtpioLqpump",
+      "dexPairUrl": "https://dexscreener.com/solana/6wfwbkaiak8wky8tzopgr6q3cbwsnrigsgccvoqvfu73",
       "description": "Trade the tactics."
     },
     {
@@ -280,9 +280,9 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "LORENZOS",
       "country": "Colombia",
       "image": "assets/coaches/25-n-storo-lorenzos.png",
-      "contract": "",
-      "pumpfunUrl": "",
-      "dexPairUrl": "",
+      "contract": "8wY6KssMTL9bu7nnNqsfCx84XMye731pkCjzKQSSpump",
+      "pumpfunUrl": "https://pump.fun/coin/8wY6KssMTL9bu7nnNqsfCx84XMye731pkCjzKQSSpump",
+      "dexPairUrl": "https://dexscreener.com/solana/5t82rkhq8nxrpqscgybdnwiwyqpjjytcppazgwbzkcjm",
       "description": "Trade the tactics."
     },
     {
@@ -291,9 +291,9 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "DESABREE",
       "country": "Congo",
       "image": "assets/coaches/26-s-bastienn-desabree.png",
-      "contract": "",
-      "pumpfunUrl": "",
-      "dexPairUrl": "",
+      "contract": "DankiifHnoHJVDcFKXgFYyh7wA9wNZdACquVzUgCpump",
+      "pumpfunUrl": "https://pump.fun/coin/DankiifHnoHJVDcFKXgFYyh7wA9wNZdACquVzUgCpump",
+      "dexPairUrl": "https://dexscreener.com/solana/7gmhgkdt3fvrau6tgzbsydp6yu8y1ncayq2fxcdrhhft",
       "description": "Trade the tactics."
     },
     {
@@ -302,9 +302,9 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "AMIRR",
       "country": "Iran",
       "image": "assets/coaches/27-amirr-ghalenoeii.png",
-      "contract": "",
-      "pumpfunUrl": "",
-      "dexPairUrl": "",
+      "contract": "EpNWxf17f7QCk4nzW4ojNPNNQFoVYn9jg6RtP4WEpump",
+      "pumpfunUrl": "https://pump.fun/coin/EpNWxf17f7QCk4nzW4ojNPNNQFoVYn9jg6RtP4WEpump",
+      "dexPairUrl": "https://dexscreener.com/solana/dm9giyydytmjv8y1b5vtymkydzmxnqjrnknk5bggglmx",
       "description": "Trade the tactics."
     },
     {
@@ -313,9 +313,9 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "BIELSAA",
       "country": "Uruguay",
       "image": "assets/coaches/28-marceloo-bielsaa.png",
-      "contract": "",
-      "pumpfunUrl": "",
-      "dexPairUrl": "",
+      "contract": "9TBFaM7bmA5PRykEkVqRMA2eZmsUALbw6RdDtEHapump",
+      "pumpfunUrl": "https://pump.fun/coin/9TBFaM7bmA5PRykEkVqRMA2eZmsUALbw6RdDtEHapump",
+      "dexPairUrl": "https://dexscreener.com/solana/pvzqvyzrqnmpgye4g99begzu78u9bxqwxfbifrdcefs",
       "description": "Trade the tactics."
     },
     {
@@ -324,9 +324,9 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "DARRENN",
       "country": "New Zealand",
       "image": "assets/coaches/29-darrenn-bazeleyy.png",
-      "contract": "",
-      "pumpfunUrl": "",
-      "dexPairUrl": "",
+      "contract": "8VwKbS86n7KYfxKei1JtSujdZzMhgHnj5JVWqXnxpump",
+      "pumpfunUrl": "https://pump.fun/coin/8VwKbS86n7KYfxKei1JtSujdZzMhgHnj5JVWqXnxpump",
+      "dexPairUrl": "https://dexscreener.com/solana/crb8uststocvldtpureahflqjjte7fjqmaycxqbaza6u",
       "description": "Trade the tactics."
     },
     {
@@ -335,9 +335,9 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "HASSAN",
       "country": "Egypt",
       "image": "assets/coaches/30-hossamm-hassann.png",
-      "contract": "",
-      "pumpfunUrl": "",
-      "dexPairUrl": "",
+      "contract": "9Ag6dCMEzWPkknTLjv8XDz7k5HceS2oapD5pw2EFpump",
+      "pumpfunUrl": "https://pump.fun/coin/9Ag6dCMEzWPkknTLjv8XDz7k5HceS2oapD5pw2EFpump",
+      "dexPairUrl": "https://dexscreener.com/solana/etha9xkmrp4iehoh9xg63e2awe1bttuuawmug2ky2y1g",
       "description": "Trade the tactics."
     },
     {
@@ -346,9 +346,9 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "PETKOVICC",
       "country": "Algeria",
       "image": "assets/coaches/31-vladimirr-petkovicc.png",
-      "contract": "",
-      "pumpfunUrl": "",
-      "dexPairUrl": "",
+      "contract": "HxM4qagsZMJz4yXDvdXndusspnqTYCrjR9Av695Fpump",
+      "pumpfunUrl": "https://pump.fun/coin/HxM4qagsZMJz4yXDvdXndusspnqTYCrjR9Av695Fpump",
+      "dexPairUrl": "https://dexscreener.com/solana/8bt1udupsienuai5wykoih7nu6np9ijgnsepbbmhsi32",
       "description": "Trade the tactics."
     },
     {
@@ -357,9 +357,9 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "MIGNÉE",
       "country": "Haiti",
       "image": "assets/coaches/32-s-bastienn-mign-e.png",
-      "contract": "",
-      "pumpfunUrl": "",
-      "dexPairUrl": "",
+      "contract": "4MybryrpqwU2Q5Z3DLr6pMJv3WX6PJReE3BdcVhspump",
+      "pumpfunUrl": "https://pump.fun/coin/4MybryrpqwU2Q5Z3DLr6pMJv3WX6PJReE3BdcVhspump",
+      "dexPairUrl": "https://dexscreener.com/solana/23z7kwjimgbkahpb6dsk7uj8ttywffmftzyvgjxcjjal",
       "description": "Trade the tactics."
     },
     {
@@ -368,9 +368,9 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "SERGEJJ",
       "country": "Bosnia and Herzegovina",
       "image": "assets/coaches/33-sergejj-barbarezz.png",
-      "contract": "",
-      "pumpfunUrl": "",
-      "dexPairUrl": "",
+      "contract": "DYQvRFWABH2imEmN79tn2ZrNzLUK9EbnbEhL5yyspump",
+      "pumpfunUrl": "https://pump.fun/coin/DYQvRFWABH2imEmN79tn2ZrNzLUK9EbnbEhL5yyspump",
+      "dexPairUrl": "https://dexscreener.com/solana/csbcrmrxzbx8k3ptfaqlp5yazdv85sbu9wazykvdi7vr",
       "description": "Trade the tactics."
     },
     {
@@ -379,9 +379,9 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "JESSEE",
       "country": "Canada",
       "image": "assets/coaches/34-jessee-marschh.png",
-      "contract": "",
-      "pumpfunUrl": "",
-      "dexPairUrl": "",
+      "contract": "4znBvL8JUHfhNascAwdo2TuPfUVhTmkAs69tkZ2xpump",
+      "pumpfunUrl": "https://pump.fun/coin/4znBvL8JUHfhNascAwdo2TuPfUVhTmkAs69tkZ2xpump",
+      "dexPairUrl": "https://dexscreener.com/solana/6hkwnxjtyvfbs1dqsmzgcdegghumgjhpozazb3bpgdge",
       "description": "Trade the tactics."
     },
     {
@@ -390,9 +390,9 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "JAMALL",
       "country": "Jordan",
       "image": "assets/coaches/35-jamall-sellamii.png",
-      "contract": "",
-      "pumpfunUrl": "",
-      "dexPairUrl": "",
+      "contract": "8Ua5rfBv5Q8hnxqpb8zAPEzVBcbz9tyZEWt6hR72pump",
+      "pumpfunUrl": "https://pump.fun/coin/8Ua5rfBv5Q8hnxqpb8zAPEzVBcbz9tyZEWt6hR72pump",
+      "dexPairUrl": "https://dexscreener.com/solana/hh36txawem127mcdnheyviyda5perhz8dfasrmhcqklg",
       "description": "Trade the tactics."
     },
     {
@@ -401,9 +401,9 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "SEBASTIÁNN",
       "country": "Ecuador",
       "image": "assets/coaches/36-sebasti-nn-beccacecee.png",
-      "contract": "",
-      "pumpfunUrl": "",
-      "dexPairUrl": "",
+      "contract": "7zZJEVBpE19Ndopnm9usUxti4h8UoNgbGA32Pgpopump",
+      "pumpfunUrl": "https://pump.fun/coin/7zZJEVBpE19Ndopnm9usUxti4h8UoNgbGA32Pgpopump",
+      "dexPairUrl": "https://dexscreener.com/solana/fq7udfrdfum6krtzjeexv9b1atxgeunyftprpkezhdxg",
       "description": "Trade the tactics."
     },
     {
@@ -412,9 +412,9 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "ALFAROO",
       "country": "Paraguay",
       "image": "assets/coaches/37-gustavoo-alfaroo.png",
-      "contract": "",
-      "pumpfunUrl": "",
-      "dexPairUrl": "",
+      "contract": "BZzTcp3nAGeDLQcyguEL4xHH81MeJWeyTg2PpKXmpump",
+      "pumpfunUrl": "https://pump.fun/coin/BZzTcp3nAGeDLQcyguEL4xHH81MeJWeyTg2PpKXmpump",
+      "dexPairUrl": "https://dexscreener.com/solana/srhfy9raf7mzuagem7yrgrmcczxswpnfveqrkvxz5hm",
       "description": "Trade the tactics."
     },
     {
@@ -423,9 +423,9 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "TONYY",
       "country": "Australia",
       "image": "assets/coaches/38-tonyy-popovicc.png",
-      "contract": "",
-      "pumpfunUrl": "",
-      "dexPairUrl": "",
+      "contract": "HhgVtxHC6wLqW6cASBNhQbu4BHCVcznMyYnLHsh6pump",
+      "pumpfunUrl": "https://pump.fun/coin/HhgVtxHC6wLqW6cASBNhQbu4BHCVcznMyYnLHsh6pump",
+      "dexPairUrl": "https://dexscreener.com/solana/btfckpektckdhxj1drwayikfweiuae2fioss6bwmchqa",
       "description": "Trade the tactics."
     },
     {
@@ -434,9 +434,9 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "JULENN",
       "country": "Qatar",
       "image": "assets/coaches/39-julenn-lopeteguii.png",
-      "contract": "",
-      "pumpfunUrl": "",
-      "dexPairUrl": "",
+      "contract": "3McQ9sV5cxzCP7p3Yx4zPpPZ1nhYHgnfjQQzTqKkpump",
+      "pumpfunUrl": "https://pump.fun/coin/3McQ9sV5cxzCP7p3Yx4zPpPZ1nhYHgnfjQQzTqKkpump",
+      "dexPairUrl": "https://dexscreener.com/solana/ezhht5qxaqhajegpxxs8gwgdqjbxldfeqhmbjrrbzvi6",
       "description": "Trade the tactics."
     },
     {
@@ -445,9 +445,9 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "ARNOLDD",
       "country": "Iraq",
       "image": "assets/coaches/40-grahamm-arnoldd.png",
-      "contract": "",
-      "pumpfunUrl": "",
-      "dexPairUrl": "",
+      "contract": "CGeLfZfLpb22p16r5Xu55zWAF8rEV4mTdWSuXjrupump",
+      "pumpfunUrl": "https://pump.fun/coin/CGeLfZfLpb22p16r5Xu55zWAF8rEV4mTdWSuXjrupump",
+      "dexPairUrl": "https://dexscreener.com/solana/8qvqnaicehukrltnrjtf68eoxwx2qcxs1uwrqlibl1jc",
       "description": "Trade the tactics."
     },
     {
@@ -456,9 +456,9 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "FABIOO",
       "country": "Uzbekistan",
       "image": "assets/coaches/41-fabioo-cannavaroo.png",
-      "contract": "",
-      "pumpfunUrl": "",
-      "dexPairUrl": "",
+      "contract": "CDLEVwYr9KfLhj45NC8uaptmXD47izJbBX9AqM33pump",
+      "pumpfunUrl": "https://pump.fun/coin/CDLEVwYr9KfLhj45NC8uaptmXD47izJbBX9AqM33pump",
+      "dexPairUrl": "https://dexscreener.com/solana/5p69cvf2uk2x58e4xkqtixdgav7cpckw9rcvscmtjud1",
       "description": "Trade the tactics."
     },
     {
@@ -467,9 +467,9 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "POTTERR",
       "country": "Sweden",
       "image": "assets/coaches/42-grahamm-potterr.png",
-      "contract": "",
-      "pumpfunUrl": "",
-      "dexPairUrl": "",
+      "contract": "4hnW5SoU63CgCZvWd3z5jSafFnojNDDJSLvq5FL1pump",
+      "pumpfunUrl": "https://pump.fun/coin/4hnW5SoU63CgCZvWd3z5jSafFnojNDDJSLvq5FL1pump",
+      "dexPairUrl": "https://dexscreener.com/solana/j9f9boawjzgptrqtal1rcjnhk7nkwubd5n7dkkbpoqxq",
       "description": "Trade the tactics."
     },
     {
@@ -478,9 +478,9 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "KOUBEKK",
       "country": "Czech Republic",
       "image": "assets/coaches/43-miroslavv-koubekk.png",
-      "contract": "",
-      "pumpfunUrl": "",
-      "dexPairUrl": "",
+      "contract": "55CC25LZbMk4tJoQVppSkcQWRP2LBGb8GMDXE4qQpump",
+      "pumpfunUrl": "https://pump.fun/coin/55CC25LZbMk4tJoQVppSkcQWRP2LBGb8GMDXE4qQpump",
+      "dexPairUrl": "https://dexscreener.com/solana/8xul5ra6htkqunj1hmagxujmqn8rlvqdykkh6j3kybgg",
       "description": "Trade the tactics."
     },
     {
@@ -489,9 +489,9 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "SABRII",
       "country": "Tunisia",
       "image": "assets/coaches/44-sabrii-lamouchii.png",
-      "contract": "",
-      "pumpfunUrl": "",
-      "dexPairUrl": "",
+      "contract": "3BgVhux9UUaGcPnE11FGNmzC9LJ1Wej1tYunuwcJpump",
+      "pumpfunUrl": "https://pump.fun/coin/3BgVhux9UUaGcPnE11FGNmzC9LJ1Wej1tYunuwcJpump",
+      "dexPairUrl": "https://dexscreener.com/solana/7lu2f2x7z3sic8b18ecpoiurfmqwkmcspk4vykezm3c",
       "description": "Trade the tactics."
     },
     {
@@ -500,9 +500,9 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "OUAHBII",
       "country": "Morocco",
       "image": "assets/coaches/45-mohamedd-ouahbii.png",
-      "contract": "",
-      "pumpfunUrl": "",
-      "dexPairUrl": "",
+      "contract": "4anDXYfLwG858hd1nbzo5qHQxpmMUGxDS7DsnKh7pump",
+      "pumpfunUrl": "https://pump.fun/coin/4anDXYfLwG858hd1nbzo5qHQxpmMUGxDS7DsnKh7pump",
+      "dexPairUrl": "https://dexscreener.com/solana/c659yshihvhap68rvankhdtighpbzzd9xfsctbsdnvqj",
       "description": "Trade the tactics."
     },
     {
@@ -511,9 +511,9 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "CARLOSS",
       "country": "Ghana",
       "image": "assets/coaches/46-carloss-queirozz.png",
-      "contract": "",
-      "pumpfunUrl": "",
-      "dexPairUrl": "",
+      "contract": "GMK3o8FY41uKFs6KejvU386jXiwWX2tkUkeBkfUypump",
+      "pumpfunUrl": "https://pump.fun/coin/GMK3o8FY41uKFs6KejvU386jXiwWX2tkUkeBkfUypump",
+      "dexPairUrl": "https://dexscreener.com/solana/9wevsmxxep5fqdrdfceucthapmwc7c1wbrwbs9tncgzq",
       "description": "Trade the tactics."
     },
     {
@@ -522,9 +522,9 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "DONNIS",
       "country": "Saudi Arabia",
       "image": "assets/coaches/47-georgioss-doniss.png",
-      "contract": "",
-      "pumpfunUrl": "",
-      "dexPairUrl": "",
+      "contract": "Ej5CZYq8vxerbyyLdjiiUZ4nxMP5jBG4Wa71MzSXpump",
+      "pumpfunUrl": "https://pump.fun/coin/Ej5CZYq8vxerbyyLdjiiUZ4nxMP5jBG4Wa71MzSXpump",
+      "dexPairUrl": "https://dexscreener.com/solana/69qtml9rmq9zrqiz2rpurwj2qcgqvfypskecucprhvgq",
       "description": "Trade the tactics."
     },
     {
@@ -533,9 +533,9 @@ window.COACHLEAGUE_CONFIG = {
       "ticker": "DICKK",
       "country": "Curaçao",
       "image": "assets/coaches/48-dickk-advocaatt.png",
-      "contract": "",
-      "pumpfunUrl": "",
-      "dexPairUrl": "",
+      "contract": "9NhNYHRgeA6uEScw91QbEX9E48qJcf4wDFyMPGrnpump",
+      "pumpfunUrl": "https://pump.fun/coin/9NhNYHRgeA6uEScw91QbEX9E48qJcf4wDFyMPGrnpump",
+      "dexPairUrl": "https://dexscreener.com/solana/9o181xe9akcyw98a7csp9rtnx4hyafykpbe99pvpnxut",
       "description": "Trade the tactics."
     }
   ]
