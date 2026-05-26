@@ -2,9 +2,9 @@ window.COACHLEAGUE_CONFIG = {
   "main": {
     "name": "CoachLeague",
     "ticker": "COACH",
-    "contract": "",
-    "pumpfunUrl": "",
-    "dexPairUrl": "",
+    "contract": "AGMiJZacGT8xL7WunYkGPGHynqrFfzWTvfRuiLUcpump",
+    "pumpfunUrl": "https://pump.fun/coin/AGMiJZacGT8xL7WunYkGPGHynqrFfzWTvfRuiLUcpump",
+    "dexPairUrl": "https://dexscreener.com/solana/kztzb6hsul7pfarv4hzuyrmm2jjga9wpptkdyk2ej1d",
     "xUrl": "",
     "telegramUrl": "",
     "discordUrl": ""
